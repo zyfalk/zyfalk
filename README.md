@@ -30,7 +30,7 @@
 
 * 🐾 **[VetCare — Clínica Veterinária Fullstack](https://github.com/zyfalk/Clinica-veterinaria-fullstack):** Sistema web completo em camadas para gestão de clínica veterinária, prontuário eletrônico e dashboard financeiro, construído com HTML, CSS, JavaScript, Node.js (Express), Python e banco de dados SQLite.
 *  **[Sistema de Fila de Aeroporto (Python)](https://github.com/zyfalk/Sistema-fila-aeroporto-python):** Aplicação interativa via terminal (CLI) para controle de pista de decolagem utilizando Programação Orientada a Objetos (POO) e estrutura de dados FIFO (`collections.deque`).
-*  **[Vita Solidária — Engenharia de Software](https://github.com/zyfalk/vita-solidaria):** Planejamento de sistema, documentação técnica, levantamento de requisitos, regras de negócio e modelagem de diagramas para plataforma de impacto social.
+*  **[Vila Solidária — Engenharia de Software](https://github.com/zyfalk/vita-solidaria):** Planejamento de sistema, documentação técnica, levantamento de requisitos, regras de negócio e modelagem de diagramas para plataforma de impacto social.
 
 ---
 
